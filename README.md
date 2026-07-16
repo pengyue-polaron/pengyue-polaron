@@ -1,11 +1,10 @@
 # Hi, I'm Peng Yue 👋
 
-I'm a Computer Science student at **NYU Shanghai**. My research interests include **embodied AI, robot learning, and multimodal perception**, alongside a broader interest in **open-source systems and communities**.
+I'm a Computer Science student at **NYU Shanghai**, working on **embodied AI, robot learning, multimodal perception, and open-source development**.
 
-I seem to have spent much of my life moving between different worlds: building robots for **FLL, VEX, FRC, and RoboMaster**; helping maintain **EaseCation**, a Minecraft community that has been running for more than a decade; and exploring research questions that lie somewhere between an uncertain idea and a system that actually works.
+I grew up around robots—from **FLL and VEX to FRC and RoboMaster**—and alongside **EaseCation**, a Minecraft community I have helped maintain for more than a decade. I enjoy turning uncertain ideas into things that work, especially with people willing to debate the details, debug late into the night, and build something together.
 
-I enjoy working with people who care enough to debate the details, stay up late fixing things, and keep trying until the machine finally moves the way we imagined. I also like taking passing ideas seriously—following them through experiments, failed attempts, and unexpected turns until they become something real.
+Beyond code, I’m drawn to mountains, snowlines, and whatever lies beyond the next ridge.
 
-Outside the lab, I am usually looking toward mountains, snowlines, and places a little farther away.
-
+> **What's life without whimsy?**
 > **What's life without whimsy?**
