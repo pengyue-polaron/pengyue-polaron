@@ -7,4 +7,3 @@ I grew up around robots—from **FLL and VEX to FRC and RoboMaster**—and along
 Beyond code, I’m drawn to mountains, snowlines, and whatever lies beyond the next ridge.
 
 > **What's life without whimsy?**
-> **What's life without whimsy?**
