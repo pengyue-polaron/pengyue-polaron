@@ -1,4 +1,4 @@
-# Hi, I'm Peng Yue 👋
+# Hi, I'm Yue Peng👋
 
 I'm a Computer Science student at **NYU Shanghai**, working on **embodied AI, robot learning, multimodal perception, and open-source development**.
 
